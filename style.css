@@ -1,6 +1,7 @@
 body {
     background-color: rgb(224, 101, 175); /* cor de fundo da página */
     color: cyan; /*cor da escrita */
+    font-family: "Bitcount Prop Single Ink";
 } 
 
 header {
