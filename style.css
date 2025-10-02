@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(239, 101, 175); /* cor de fundo da página */
+    background-color: rgb(224, 101, 175); /* cor de fundo da página */
     color: cyan; /*cor da escrita */
 } 
 
@@ -10,6 +10,17 @@ header {
     color: rgb(226, 226, 47);
 }
 
+section{
+    background-color: rgb(224, 15, 160); /*cor escolhida*/
+    padding-bottom: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+
+.chamada-texto{
+    margin-right: 5%;
+}
 h1{
     font-size: 30px; /* tamanho da fonte*/
     text-align: center; /* centralizado */
